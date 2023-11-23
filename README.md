@@ -1,0 +1,2 @@
+# LPB
+Repo IKT Projekmunkához
